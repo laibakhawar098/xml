@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+    <data>
+        <student id="123">
+            laiba
+        </student>
+        <age>
+            17
+        </age>
+        <fee>
+            8100
+        </fee>
+    </data>
+    <data>
+        <student id="124">
+            alina
+        </student>
+        <age>
+            17
+        </age>
+        <fee>
+            8100
+        </fee>
+    </data>
+    <data>
+        <student id="125">
+            alina
+        </student>
+        <age>
+            16
+        </age>
+        <fee>
+            8100
+        </fee>
+    </data>
+</student>

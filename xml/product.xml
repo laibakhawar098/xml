@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+<list>
+<id>
+    0987
+</id>
+<name>
+    book
+</name>
+<price>
+    1200
+</price>
+<description>
+    this is a book
+</description>
+</list>
+<list>
+    <id>
+        0988
+    </id>
+    <name>
+        bag
+    </name>
+    <price>
+        2000
+    </price>
+    <description>
+        this is a bag
+    </description>
+    </list>
+    <list>
+        <id>
+            0989
+        </id>
+        <name>
+            pen
+        </name>
+        <price>
+            120
+        </price>
+        <description>
+            this is a pen
+        </description>
+        </list>
+</product>
