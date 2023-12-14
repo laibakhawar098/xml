@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UFT-8"?>
+<!DOCTYPE employees[
+<!Element employees(employee)>
+<!Element employee(name,salary,department)>
+<!Element name(#PCData)>
+<!Element salary(#PCData)>
+<!Element department(#PCData)>
+]
+>
+<employees>
+    <employee>
+    <name>
+        ahmad
+    </name>
+    <salary>
+        100000
+    </salary>
+    <department>
+        I.T
+    </department>
+    </employee>
+    <employee>
+        <name>
+            saba
+        </name>
+        <salary>
+            95000
+        </salary>
+        <department>
+            I.T
+        </department>
+    
+        </employee>
+        <employee>
+            <name>
+                ali
+            </name>
+            <salary>
+                90000
+            </salary>
+            <department>
+              medical
+            </department>
+        
+            </employee>
+            
+        
+</employees>
